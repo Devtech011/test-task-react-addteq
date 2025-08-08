@@ -164,7 +164,6 @@ test-task-react-addteq/
 - **Tab**: Navigate between interactive elements
 - **Enter/Space**: Activate buttons and select products
 - **Escape**: Clear search input
-- **Arrow Keys**: Navigate through product cards
 
 ## Technology Stack
 
