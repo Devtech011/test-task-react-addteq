@@ -14,7 +14,7 @@ A modern React application for comparing smartphone products with advanced featu
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Devtech011/test-task-react-addteq.git
    cd test-task-react-addteq
    ```
 
